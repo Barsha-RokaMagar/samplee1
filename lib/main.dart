@@ -122,25 +122,7 @@ class MyApp extends StatelessWidget {
             ),
           )
 
-        // Row(
-        // mainAxisSize: MainAxisSize.min,
-        //   children: [
-        //     Icon(Icons.star, color: Colors.red[500],),
-        //     Icon(Icons.star, color: Colors.red[500],),
-        //     Icon(Icons.star, color: Colors.red[500],),
-        //     Icon(Icons.star, color: Colors.black,),
-        //     Icon(Icons.star, color: Colors.black,),
-        //     Text('170 reviews',style: TextStyle(
-        //       color: Colors.black,
-        //       fontWeight: FontWeight.w800,
-        //       fontFamily: 'Roboto',
-        //       letterSpacing: 0.5,
-        //       fontSize: 20,
-        //
-        //     ),),
-        //
-        //   ],
-        // ),
+        
       ),
     );
   }
